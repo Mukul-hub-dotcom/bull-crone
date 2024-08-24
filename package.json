@@ -1,0 +1,21 @@
+{
+  "name": "bull-crone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bull-board/api": "^5.21.4",
+    "@bull-board/express": "^5.21.4",
+    "axios": "^1.7.5",
+    "bullmq": "^5.12.10",
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "node-cron": "^3.0.3"
+  }
+}
